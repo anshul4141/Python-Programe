@@ -1,0 +1,6 @@
+t = (5, 6, 9, 7)
+print(t)
+print(t[3])
+print(len(t))
+print(max(t))
+print(min(t))
